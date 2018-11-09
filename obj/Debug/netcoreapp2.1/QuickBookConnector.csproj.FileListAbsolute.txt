@@ -1,0 +1,11 @@
+C:\development\Code\QuickBookConnector\obj\Debug\netcoreapp2.1\QuickBookConnector.csprojAssemblyReference.cache
+C:\development\Code\QuickBookConnector\obj\Debug\netcoreapp2.1\QuickBookConnector.csproj.CoreCompileInputs.cache
+C:\development\Code\QuickBookConnector\obj\Debug\netcoreapp2.1\QuickBookConnector.AssemblyInfoInputs.cache
+C:\development\Code\QuickBookConnector\obj\Debug\netcoreapp2.1\QuickBookConnector.AssemblyInfo.cs
+C:\development\Code\QuickBookConnector\bin\Debug\netcoreapp2.1\QuickBookConnector.deps.json
+C:\development\Code\QuickBookConnector\bin\Debug\netcoreapp2.1\QuickBookConnector.runtimeconfig.json
+C:\development\Code\QuickBookConnector\bin\Debug\netcoreapp2.1\QuickBookConnector.runtimeconfig.dev.json
+C:\development\Code\QuickBookConnector\bin\Debug\netcoreapp2.1\QuickBookConnector.dll
+C:\development\Code\QuickBookConnector\bin\Debug\netcoreapp2.1\QuickBookConnector.pdb
+C:\development\Code\QuickBookConnector\obj\Debug\netcoreapp2.1\QuickBookConnector.dll
+C:\development\Code\QuickBookConnector\obj\Debug\netcoreapp2.1\QuickBookConnector.pdb
